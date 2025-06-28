@@ -3,7 +3,7 @@
 
 **Project Overview**
 
-This project utilized four essential data analysis tools: Power BI, Tableau Desktop, SQL, and Excel.
+This project utilized four essential data analysis tools: Power BI, SQL, and Excel.
 
 **Data**
 
